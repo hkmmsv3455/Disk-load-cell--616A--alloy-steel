@@ -1,0 +1,4 @@
+Disk-load-cell--616A--alloy-steel
+=================================
+
+PARAMETER UNIT TECHNICAL DATA Rated capacity (Emax) kg 25/50/200/500/1,000/2,000/3,000/5,000/10,000/20,000/30,000 Accuracy class 0.3Sensitivity mV/V 2.0 ±10% Zero balance mV/V0.04Creep over 30min %0.1Temperature effect on zero %/ 0.0012Temperature effect on output %/ 0.0023Hysteresis % 0.017Linearity deviation % 0.017Repeatability % 0.017Nominal temperature range -10 to +40 Service temperature range -10 to +50 Limit load % of R.C. 150Break load % of R.C. 300Nominal excitation V 5~12 Max. excitation V 15Input impedance 400 ±25 Output impedance 350 ±3 Insulation resistance M 2000 Cable length M 2Cable type 4 conductors, Braid Shielded, Black PVC Jacket Color code +Exc-Red, +Sig -Grn, -Exc-Blk, -Sig- Wht http://www.hzloadcell.com/pid11494655/Disk+load+cell%2c+616A%2c+alloy+steel.htm
